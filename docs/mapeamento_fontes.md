@@ -1,4 +1,16 @@
-Todas as fontes de documentos foram tiradas do anvisalegis.datalegis.net:
+\# Mapeamento de Fontes Anvisa
+
+Todas as fontes de documentos podem ser retiradas dos sites:
+
+* https://anvisalegis.datalegis.net
+* https://bibliotecadigital.anvisa.gov.br/jspui/
+* https://dados.gov.br/dados/organizacoes/visualizar/agencia-nacional-de-vigilancia-sanitaria-anvisa
+
+
+
+\## Tipos de Arquivos
+
+Os tipos de arquivos disponíveis são pdf e csv.
 
 
 
@@ -6,7 +18,9 @@ Todas as fontes de documentos foram tiradas do anvisalegis.datalegis.net:
 
 
 
-Nome: INSTRUÇÃO NORMATIVA ANVISA Nº 440, DE 7 DE MAIO DE 2026:
+\## Exemplos
+
+Nome: INSTRUÇÃO NORMATIVA ANVISA Nº 440, DE 7 DE MAIO DE 2026
 Link: https://anvisalegis.datalegis.net/action/UrlPublicasAction.php?acao=abrirAtoPublico\&num\_ato=00000440\&sgl\_tipo=INM\&sgl\_orgao=DC/ANVISA/MS\&vlr\_ano=2026\&seq\_ato=000\&cod\_modulo=310\&cod\_menu=9882
 
 Arquivo: (Revogada)licn70donlboeq3m9baf7cfo5t\_1793895101.pdf
@@ -37,7 +51,7 @@ Revogada ou Vigente: Não há no texto se é vigente, mas há no site que essa i
 
 
 
-Nome: RETIFICAÇÃO da Resolução da Diretoria Colegiada - RDC nº 90, de 29 de junho de 2016 
+Nome: RETIFICAÇÃO da Resolução da Diretoria Colegiada - RDC nº 90, de 29 de junho de 2016
 
 Link: https://anvisalegis.datalegis.net/action/UrlPublicasAction.php?acao=abrirAtoPublico\&num\_ato=00000090\&sgl\_tipo=RDC\&sgl\_orgao=RDC/DC/ANVISA/MS\&vlr\_ano=2016\&seq\_ato=RET\&cod\_modulo=310\&cod\_menu=9429
 
@@ -47,15 +61,12 @@ Revogada ou Vigente: Há no título que se trata de uma retificação.
 
 
 
-Nome: Resolução da Diretoria Colegiada - RDC nº 90, de 29/06/2016  
+Nome: Resolução da Diretoria Colegiada - RDC nº 90, de 29/06/2016
 
 Link: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto\&tipo=RDC\&numeroAto=00000090\&seqAto=000\&valorAno=2016\&orgao=RDC/DC/ANVISA/MS\&codTipo=\&desItem=\&desItemFim=\&cod\_menu=9434\&cod\_modulo=310\&pesquisa=true
 Arquivo: (Vigente\_com\_alteracao)crsju9fsbdk4d49ihgm5lhse8t\_1793896165.pdf
 
 Revogada ou Vigente: No site aparece que é Vigente com Alteração.
-
-
-
 
 
 
