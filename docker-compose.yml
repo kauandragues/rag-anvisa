@@ -1,0 +1,27 @@
+services:
+  postgres_vector:
+    image: pgvector/pgvector:pg16
+    container_name: postgres_vector
+    restart: always
+    environment:
+      POSTGRES_USER: rag_admin
+      POSTGRES_PASSWORD: rag_password
+      POSTGRES_DB: regulatory_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: always
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+volumes:
+  pgdata:
+  ollama_data:
