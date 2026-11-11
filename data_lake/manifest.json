@@ -1,0 +1,37 @@
+{
+  "d5c76d0481dc59430e2922949dba08a797c220dd3d67c34d9a34fbc292a808bf": {
+    "nome_arquivo": "(Alterador)i951srmnn97d6lgudg9k1ebqp5_1793895567.pdf",
+    "orgao": "ANVISA",
+    "tamanho_bytes": 42168,
+    "status_vigencia": "ALTERADOR",
+    "registrado_em": "2026-11-11T15:40:38.719396"
+  },
+  "7e56db9ca91deebd5218d2b5017f548199137232b8ec0d807305e990c2e4e73c": {
+    "nome_arquivo": "(Retificadora)lnjet3vd349fb8hsmr0hsujona_1793895588.pdf",
+    "orgao": "ANVISA",
+    "tamanho_bytes": 37491,
+    "status_vigencia": "RETIFICADORA",
+    "registrado_em": "2026-11-11T15:40:38.720274"
+  },
+  "0e67a0f93c5b0da0e73b88973f6dbb6c7aeb0d001a931fdd2543be6cb67ffcc8": {
+    "nome_arquivo": "(Revogada)licn70donlboeq3m9baf7cfo5t_1793895101.pdf",
+    "orgao": "ANVISA",
+    "tamanho_bytes": 64805,
+    "status_vigencia": "REVOGADA",
+    "registrado_em": "2026-11-11T15:40:38.721390"
+  },
+  "d790ae74a4b49f0d11131dbc83694e0c55e5c9e43053648221c4668db6955b2b": {
+    "nome_arquivo": "(Vigente)9pah832fpinaes7kqhkoqj1l0v_1793895411.pdf",
+    "orgao": "ANVISA",
+    "tamanho_bytes": 46369,
+    "status_vigencia": "VIGENTE",
+    "registrado_em": "2026-11-11T15:40:38.722046"
+  },
+  "62fe4dbd78c5ffe08b2c3dc2f195289cf52c7cbd353ceab0fe061888db77f8d8": {
+    "nome_arquivo": "(Vigente_com_alteracao)crsju9fsbdk4d49ihgm5lhse8t_1793896165.pdf",
+    "orgao": "ANVISA",
+    "tamanho_bytes": 95063,
+    "status_vigencia": "VIGENTE_COM_ALTERACAO",
+    "registrado_em": "2026-11-11T15:40:38.723220"
+  }
+}
